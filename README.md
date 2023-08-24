@@ -3,7 +3,7 @@ My name is Jędrzej (pronounced Yen-jay, or just call me Jed) I currently work i
 I'm also a big fan of FOSS and ocassionally contribute to projects I find interesting and/or use at work.
 
 #### Contact me
-You can reach me on [LinkedIn](https://linkedin.com/in/jędrzej-kotkowski-84a79a289) or via [email](jedrzejk143@gmail.com)
+You can reach me on [LinkedIn](https://linkedin.com/in/jędrzej-kotkowski-84a79a289) or via [email](mailto:jedrzejk143@gmail.com)
 
 
 <!--
