@@ -1,8 +1,4 @@
-### Hi there 👋
-My name is Jędrzej (pronounced Yen-jay, or just call me Jed) I currently work in a Platform Engineering team at a large European bank, mostly with Kubernetes and other cloud-native tooling.<br>
-I'm also a big fan of FOSS and ocassionally contribute to projects I find interesting and/or use at work.
-
-#### Contact me
+### Contact me
 You can reach me on [LinkedIn](https://linkedin.com/in/jędrzej-kotkowski-84a79a289) or via [email](mailto:jedrzejk143@gmail.com)
 
 
